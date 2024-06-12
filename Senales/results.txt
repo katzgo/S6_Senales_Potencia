@@ -108,3 +108,13 @@ Distortion thresholds 	 CB max = 11097.799683798958
 ---------------------------------------
 
 
+mfcc	20
+codebook depth	32
+
+Katia	50.0%
+Cesar	75.0%
+Parameter accuracy 	83.33333333333333%
+Distortion thresholds 	 CB max = 10442.569138531535
+---------------------------------------
+
+
