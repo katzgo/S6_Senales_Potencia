@@ -1,0 +1,123 @@
+mfcc	20
+codebook depth	4
+
+Katia_0.wav
+Katia	7139.4021956480165
+Katia_1.wav
+Facundo	10476.919398090839
+Katia_2.wav
+Katia	8294.276642354904
+Katia_3.wav
+Katia	7818.0289805979855
+Katia_4.wav
+Katia	7834.605104081391
+Katia_5.wav
+Katia	8294.810931340704
+Katia_6.wav
+Katia	7873.408876865614
+Katia_7.wav
+Katia	7417.334225388869
+Katia_8.wav
+Katia	8310.904518047852
+Katia_9.wav
+Katia	8299.355004770532
+Katia_10.wav
+Katia	13717.511761038973
+Katia_11.wav
+Katia	8939.137408562869
+Katia_12.wav
+Katia	8671.632587288223
+Katia_13.wav
+Katia	8680.313638658245
+Katia_14.wav
+Katia	9065.8365081482
+Katia_15.wav
+Katia	8365.570906488596
+Katia_16.wav
+Katia	8321.052726346277
+Katia_17.wav
+Katia	9020.663851382436
+Katia_18.wav
+Katia	7954.822663840867
+Katia_19.wav
+Katia	8327.133275647395
+Facundo_0.wav
+Facundo	7663.694116628472
+Facundo_1.wav
+Facundo	9283.631669872515
+Facundo_2.wav
+Facundo	8706.549040846605
+Facundo_3.wav
+Facundo	8150.383016600423
+Facundo_4.wav
+Facundo	8061.514832845307
+Facundo_5.wav
+Facundo	7097.436756819743
+Facundo_6.wav
+Facundo	8714.23388439922
+Facundo_7.wav
+Katia	9912.526794819089
+Facundo_8.wav
+Facundo	8896.006847620407
+Facundo_9.wav
+Facundo	8736.281094582297
+Cesar_0.wav
+Cesar	9171.71974343527
+Cesar_1.wav
+Cesar	9504.766073421351
+Cesar_2.wav
+Cesar	7885.894158699397
+Cesar_3.wav
+Cesar	8923.891740130264
+Cesar_4.wav
+Cesar	9437.266678251364
+Cesar_5.wav
+Cesar	9705.475596275845
+Cesar_6.wav
+Cesar	7433.934242682838
+Cesar_7.wav
+Cesar	8674.861200904677
+Cesar_8.wav
+Cesar	9768.181413105622
+Cesar_9.wav
+Cesar	8156.959369515945
+Cesar_10.wav
+Katia	7487.536566479928
+Cesar_11.wav
+Facundo	8609.012432631225
+Cesar_12.wav
+Cesar	7385.051528384813
+Cesar_13.wav
+Cesar	7566.560452698807
+Cesar_14.wav
+Facundo	8497.895107399503
+Cesar_15.wav
+Facundo	8704.948924228414
+Cesar_16.wav
+Cesar	8295.326115544174
+Cesar_17.wav
+Cesar	8821.038219325677
+Cesar_18.wav
+Cesar	9128.05369858391
+Cesar_19.wav
+Cesar	8218.260342865917
+Alanny_0.wav
+Facundo	9698.239440531079
+Alanny_1.wav
+Katia	8895.717598687559
+Alanny_2.wav
+Katia	10595.089640683822
+Alanny_3.wav
+Katia	9280.845378033164
+Alanny_4.wav
+Katia	11257.37934210944
+Alanny_5.wav
+Katia	9179.066321083756
+Alanny_6.wav
+Katia	10148.075460890772
+Alanny_7.wav
+Katia	11001.5675608826
+Alanny_8.wav
+Katia	9492.990088785195
+Alanny_9.wav
+Katia	10865.097566471772

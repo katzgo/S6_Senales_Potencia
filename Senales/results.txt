@@ -1,120 +1,33 @@
-mfcc	13
-codebook depth	4
-
-Katia	50.0%
-Cesar	80.0%
-Parameter accuracy 	86.66666666666667%
-Distortion thresholds 	 CB max = 11429.654748926107
----------------------------------------
-
-
-mfcc	13
-codebook depth	8
-
-Katia	50.0%
-Cesar	70.0%
-Parameter accuracy 	80.0%
-Distortion thresholds 	 CB max = 10581.781456366149
----------------------------------------
-
-
-mfcc	13
-codebook depth	16
-
-Katia	50.0%
-Cesar	70.0%
-Parameter accuracy 	80.0%
-Distortion thresholds 	 CB max = 9437.509522552304
----------------------------------------
-
-
-mfcc	13
-codebook depth	32
-
-Katia	50.0%
-Cesar	70.0%
-Parameter accuracy 	80.0%
-Distortion thresholds 	 CB max = 9060.516827964393
----------------------------------------
-
-
-mfcc	16
-codebook depth	4
-
-Katia	50.0%
-Cesar	80.0%
-Parameter accuracy 	86.66666666666667%
-Distortion thresholds 	 CB max = 11924.057618962488
----------------------------------------
-
-
-mfcc	16
-codebook depth	8
-
-Katia	50.0%
-Cesar	70.0%
-Parameter accuracy 	80.0%
-Distortion thresholds 	 CB max = 11090.439477883865
----------------------------------------
-
-
-mfcc	16
-codebook depth	16
-
-Katia	50.0%
-Cesar	75.0%
-Parameter accuracy 	83.33333333333333%
-Distortion thresholds 	 CB max = 10646.20946111294
----------------------------------------
-
-
-mfcc	16
-codebook depth	32
-
-Katia	50.0%
-Cesar	75.0%
-Parameter accuracy 	83.33333333333333%
-Distortion thresholds 	 CB max = 9430.318247518377
----------------------------------------
-
+frame lenght	1024
+hop lenght	512
 
 mfcc	20
 codebook depth	4
 
-Katia	50.0%
+Katia	100.0%
+Facundo	0.0%
+Cesar	30.0%
+Alanny	0.0%
+Parameter accuracy 	65.0%
+Distortion thresholds 	 CB max = 41924.32175850446	Out of CB min = 29314.856167839313
+---------------------------------------
+
+
+frame lenght	1024
+hop lenght	512
+
+frame lenght	1024
+hop lenght	512
+
+mfcc	20
+codebook depth	4
+
+Katia	95.0%
+Facundo	45.0%
 Cesar	80.0%
-Parameter accuracy 	86.66666666666667%
-Distortion thresholds 	 CB max = 12259.620408862922
----------------------------------------
-
-
-mfcc	20
-codebook depth	8
-
-Katia	50.0%
-Cesar	70.0%
-Parameter accuracy 	80.0%
-Distortion thresholds 	 CB max = 11511.899951304109
----------------------------------------
-
-
-mfcc	20
-codebook depth	16
-
-Katia	50.0%
-Cesar	80.0%
-Parameter accuracy 	86.66666666666667%
-Distortion thresholds 	 CB max = 11097.799683798958
----------------------------------------
-
-
-mfcc	20
-codebook depth	32
-
-Katia	50.0%
-Cesar	75.0%
-Parameter accuracy 	83.33333333333333%
-Distortion thresholds 	 CB max = 10442.569138531535
+Alanny	0.0%
+Parameter accuracy 	110.0%
+Distortion thresholds 	 CB max = 13717.511761038973	Out of CB min = 8895.717598687559
 ---------------------------------------
 
 
